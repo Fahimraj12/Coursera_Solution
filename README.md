@@ -1,6 +1,6 @@
 > ⚠️ Disclaimer:
 Assignment solutions shared here are for educational reference only.
-Students are encouraged to understand concepts and write their own answers.
+Learners are encouraged to understand concepts and write their own answers.
 # Coursera_Solution
 In these I have uploaded the Solution of Coursera Solution to help other
 
