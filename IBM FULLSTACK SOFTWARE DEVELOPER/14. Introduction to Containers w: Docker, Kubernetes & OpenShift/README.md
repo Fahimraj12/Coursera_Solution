@@ -19,3 +19,6 @@ Task 8: Take a screenshot of your updated application and save it as a .jpg or .
 Task 9: Take a screenshot of the details of the correct Revision and save it as a .jpg or .png with the filename `rev.png`.
 
 Task 10: Take a screenshot of the output of Step 9 and save it as a .jpg or .png with the filename `rs.png`.
+
+## Author's:
+- Mo Fahim Raj
