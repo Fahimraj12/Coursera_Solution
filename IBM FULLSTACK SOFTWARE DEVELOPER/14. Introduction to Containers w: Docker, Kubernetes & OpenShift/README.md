@@ -1,5 +1,7 @@
 # 14. Introduction to Containers w: Docker, Kubernetes & OpenShift
 
+## 📘 Course Overview
+This IBM course on Coursera provides a comprehensive introduction to modern container technologies, focusing on Docker for containerization, Kubernetes for orchestration, and OpenShift as an enterprise Kubernetes platform.
 Task 1: Take a screenshot of your completed Dockerfile and save it as a .jpg or .png with the filename `Dockerfile.png`.
 
 Task 2: Take a screenshot of the output of Step 6 and save it as a .jpg or .png with the filename `crimages.png`.
