@@ -23,5 +23,9 @@ Task 9: Take a screenshot of the details of the correct Revision and save it as 
 
 Task 10: Take a screenshot of the output of Step 9 and save it as a .jpg or .png with the filename `rs.png`.
 
+### ⭐ Remember: The container ecosystem evolves rapidly. Follow official blogs and release notes to stay current with best practices and security updates.
+
+
+
 ## Author's:
 - Mo Fahim Raj
