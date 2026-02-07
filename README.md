@@ -7,3 +7,6 @@ In these I have uploaded the Solution of Coursera Solution to help other
 
 ## Author :
 - Mo Fahim Raj
+###### ⭐ If you find this project useful, please give it a star on GitHub! ⭐
+
+###### Built with ❤️ 
