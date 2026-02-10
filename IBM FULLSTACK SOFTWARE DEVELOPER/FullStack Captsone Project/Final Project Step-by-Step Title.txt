@@ -1,1 +1,11 @@
 # IBM FULL STACK SOFTWARE DEVELOPER
+
+1))   https://github.com/digital-installer/xrwvm-fullstack_developer_capstone
+
+2))   Django server running.
+
+3))   "About us" page of the Django Application
+
+4))   "Contact us" page of the Django Application
+
+5))   "Login" page of the Django Application
