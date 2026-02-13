@@ -3,7 +3,7 @@
   ```
   https://github.com/digital-installer/xrwvm-fullstack_developer_capstone
   ```
-Task 2: 
+- Task 2: 
 
 
 ## Author's :
