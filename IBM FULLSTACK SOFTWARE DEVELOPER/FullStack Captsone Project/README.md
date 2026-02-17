@@ -18,16 +18,16 @@ image given
 - Task 6: 
 image given
 
-- Task 6: 
+- Task 7: 
 image given
 
-- Task 6: 
+- Task 8: 
 image given
 
-- Task 6: 
+- Task 9: 
 image given
 
-- Task 6: 
+- Task 10: 
 image given
 
 ## Author's :
