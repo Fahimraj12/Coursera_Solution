@@ -6,16 +6,16 @@
 - Task 2: 
 image given
 
-- Task 2: 
+- Task 3: 
 image given
 
-- Task 2: 
+- Task 4: 
 image given
 
-- Task 2: 
+- Task 5: 
 image given
 
-- Task 2: 
+- Task 6: 
 image given
 
 ## Author's :
