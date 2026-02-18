@@ -24,6 +24,7 @@
 # TASK 6 :- 👇
 ## TITLE :- `"Logout Alert" of the Django Application`
 <img width="1034" alt="logout" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/ff80b062-108f-4088-9ff1-1f85ec8e4503">
+
 # TASK 7 :- 👇
 ## TITLE :- `"Sign Up" page of the Django Application`
 <img width="1215" alt="sign-up" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/0083b876-d741-4d05-a912-a407741e7a29">
@@ -84,6 +85,7 @@
 # TASK 21 :- 👇
 ## TITLE :- `showing the “Post Review” page after adding the details before you submit.`
 <img width="1430" alt="dealership_review_submission" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/1f54d53f-1c77-4f85-90c4-07c5ccce6d0e">
+
 # TASK 22 :- 👇
 ## TITLE :- `showing the review you posted. The details should match with the`
 <img width="1440" alt="added_review" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/f179c752-8134-41c8-a15b-24af289eadcc">
