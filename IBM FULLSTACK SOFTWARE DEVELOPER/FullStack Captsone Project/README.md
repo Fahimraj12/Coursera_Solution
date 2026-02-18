@@ -24,3 +24,18 @@
 # TASK 6 :- 👇
 ## TITLE :- `"Logout Alert" of the Django Application`
 <img width="1034" alt="logout" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/ff80b062-108f-4088-9ff1-1f85ec8e4503">
+# TASK 7 :- 👇
+## TITLE :- `"Sign Up" page of the Django Application`
+<img width="1215" alt="sign-up" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/0083b876-d741-4d05-a912-a407741e7a29">
+
+# TASK 8 :- 👇
+## TITLE :- `Showing dealer reviews through the Express-Mongo application.`
+<img width="1010" alt="dealer_review" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/fcde7aa6-f848-4e88-a481-2dcf8bde6037">
+
+# TASK 9 :- 👇
+## TITLE :- `Showing all dealers through the Express-Mongo application endpoint.`
+<img width="1004" alt="dealerships" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/168f6c6f-5cb7-4a31-81ff-4954b16e2ec9">
+
+# TASK 10 :- 👇
+## TITLE :- `Dealer details through the Express-Mongo application.`
+<img width="1004" alt="dealer_details" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/75c1183f-320e-4ae3-849a-5e3f495a0bf7">
