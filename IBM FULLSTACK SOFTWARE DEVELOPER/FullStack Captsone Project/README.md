@@ -84,3 +84,17 @@
 # TASK 21 :- 👇
 ## TITLE :- `showing the “Post Review” page after adding the details before you submit.`
 <img width="1430" alt="dealership_review_submission" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/1f54d53f-1c77-4f85-90c4-07c5ccce6d0e">
+# TASK 22 :- 👇
+## TITLE :- `showing the review you posted. The details should match with the`
+<img width="1440" alt="added_review" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/f179c752-8134-41c8-a15b-24af289eadcc">
+
+# TASK 23 :- 👇
+## TITLE :- `successful implementation of CI/CD on GitHub.`
+<img width="1392" alt="CICD" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/b70a45f7-7100-4ac5-966f-e35c4657ae0d">
+
+# TASK 24 :- 👇
+## LINK :- `https://akinbamigben-8000.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/`
+
+# TASK 25 :- 👇
+## TITLE :- `of the landing page opened through your deployment`
+<img width="1426" alt="deployed_landingpage" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/7928976b-4f0f-4762-8f3b-27b59c571a36">
