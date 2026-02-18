@@ -55,3 +55,19 @@
 # TASK 14 :- 👇
 ## TITLE :- `showing car makes (after adding or populating the car makes) from the admin pa`
 <img width="1389" alt="cars" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/5a0868b3-bcf5-463d-a323-d70c198b4af7">
+
+# TASK 15 :- 👇
+## TITLE :- `showing car models (after adding or populating the car makes) from`
+<img width="1401" alt="car_models" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/7b3064e5-5400-44b4-ab07-48f333c5d487">
+
+# TASK 16 :- 👇
+## TITLE :- `showing the sentiment analyzer working through the deployed URL.`
+<img width="919" alt="sentiment_analyzer" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/2ef9e474-c815-4465-a8f2-a3e98d675e82">
+
+# TASK 17 :- 👇
+## TITLE :- `showing the dealers on the home page of the Django application before logging in.`
+<img width="1423" alt="get_dealers" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/09988908-835e-4137-be2e-0b6e9097795e">
+
+# TASK 18 :- 👇
+## TITLE :- `showing the dealers on the home page of the Django application after logging in.`
+<img width="1436" alt="get_dealers_loggedin" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/acbb96bb-3ea4-4a91-885d-f5da325f4340">
