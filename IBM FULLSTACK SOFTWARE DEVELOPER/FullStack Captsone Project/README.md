@@ -71,3 +71,16 @@
 # TASK 18 :- 👇
 ## TITLE :- `showing the dealers on the home page of the Django application after logging in.`
 <img width="1436" alt="get_dealers_loggedin" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/acbb96bb-3ea4-4a91-885d-f5da325f4340">
+
+
+# TASK 19 :- 👇
+## TITLE :- `showing the dealers filtered by the State on the home page of t`
+<img width="1436" alt="dealersbystate" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/68f5ffbc-791b-4493-a68a-fea762c9ab47">
+
+# TASK 20 :- 👇
+## TITLE :- `showing the selected dealer details on the dealer page along with the reviews`
+<img width="1426" alt="dealer_id_reviews" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/3a16b5ac-ece5-49a8-88e9-6d3ca5ea5931">
+
+# TASK 21 :- 👇
+## TITLE :- `showing the “Post Review” page after adding the details before you submit.`
+<img width="1430" alt="dealership_review_submission" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/1f54d53f-1c77-4f85-90c4-07c5ccce6d0e">
