@@ -39,3 +39,19 @@
 # TASK 10 :- 👇
 ## TITLE :- `Dealer details through the Express-Mongo application.`
 <img width="1004" alt="dealer_details" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/75c1183f-320e-4ae3-849a-5e3f495a0bf7">
+
+# TASK 11 :- 👇
+## TITLE :- `Showing all dealers in Kansas through the Express-Mongo application.`
+<img width="1013" alt="kansasDealers" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/37a01289-16bb-4af1-abb3-50e2b828ad8f">
+
+# TASK 12 :- 👇
+## TITLE :- `Showing the root user login on the admin page.`
+<img width="1395" alt="admin_login" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/5b8416a4-b9cb-4ed2-8c9b-c5f536b2becb">
+
+# TASK 13 :- 👇
+## TITLE :- `Showing the root user logged out from the admin page`
+<img width="1029" alt="admin_logout" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/72f7809b-2f17-45bc-8f0a-7538457a343e">
+
+# TASK 14 :- 👇
+## TITLE :- `showing car makes (after adding or populating the car makes) from the admin pa`
+<img width="1389" alt="cars" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/5a0868b3-bcf5-463d-a323-d70c198b4af7">
