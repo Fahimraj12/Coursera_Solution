@@ -100,3 +100,18 @@
 # TASK 25 :- 👇
 ## TITLE :- `of the landing page opened through your deployment`
 <img width="1426" alt="deployed_landingpage" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/7928976b-4f0f-4762-8f3b-27b59c571a36">
+# TASK 25 :- 👇
+## TITLE :- `of the landing page opened through your deployment`
+<img width="1426" alt="deployed_landingpage" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/7928976b-4f0f-4762-8f3b-27b59c571a36">
+
+# TASK 26 :- 👇
+## TITLE :- `logged-in page opened through your deployment.`
+<img width="1434" alt="deployed_loggedin" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/1902799f-6872-401c-80a4-a0167d975035">
+
+# TASK 27 :- 👇
+## TITLE :- `dealer details page opened through your deployment.`
+<img width="1431" alt="deployed_dealer_detail" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/7f9911a6-5f8d-4eb7-9843-005d9995c1fe">
+
+# TASK 28 :- 👇
+## TITLE :- `of a review added through your deployed application.`
+<img width="1428" alt="deployed_add_review" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/3a113086-3ef2-4782-a6d8-c0c8e338c12f">
