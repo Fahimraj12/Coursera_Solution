@@ -1,4 +1,4 @@
-# 🚀 Week 6 Peer-Graded Assignment Solutions :- ✅ 😇 👇
+# 🚀 Week 6 Peer-Graded Assignment Solutions :- ✅ 😇
 ## Follow the Below mentioned steps :- 👇 ✅
 
 # TASK 1 :- 👇
