@@ -119,3 +119,7 @@ Learners are encouraged to understand concepts and write their own answers.s
 # TASK 28 :- 👇
 ## TITLE :- `of a review added through your deployed application.`
 <img width="1428" alt="deployed_add_review" src="https://github.com/Uday-Pratap-hub/IBM-Full-Stack-Application-Development-Capstone-Project/assets/67860426/3a113086-3ef2-4782-a6d8-c0c8e338c12f">
+
+
+# So now SUBMIT your Assignment. ✅ 😇
+## After Submitting do the Peer-Reviewing as mentioned in the Video... 👇 ✅
