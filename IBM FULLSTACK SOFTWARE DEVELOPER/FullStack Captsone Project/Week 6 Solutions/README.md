@@ -1,6 +1,5 @@
 # 🚀 Week 6 Peer-Graded Assignment Solutions :- ✅ 😇
 ## Follow the Below mentioned steps :- 👇 ✅
-
 # TASK 1 :- 👇
 ## LINK :- `https://github.com/digital-installer/xrwvm-fullstack_developer_capstone`
 
