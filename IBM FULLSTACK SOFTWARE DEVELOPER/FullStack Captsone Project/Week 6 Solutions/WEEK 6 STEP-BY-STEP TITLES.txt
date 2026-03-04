@@ -1,4 +1,5 @@
 1))   https://github.com/digital-installer/xrwvm-fullstack_developer_capstone
+
 2))   Django server running.
 
 3))   "About us" page of the Django Application
@@ -52,5 +53,6 @@
 27))   dealer details page opened through your deployment.
 
 28))   of a review added through your deployed application.
+
 
 
