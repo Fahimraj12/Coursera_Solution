@@ -122,4 +122,4 @@ Learners are encouraged to understand concepts and write their own answers.s
 
 
 # So now SUBMIT your Assignment. ✅ 😇
-## After Submitting do the Peer-Reviewing as mentioned in the Video... 👇 ✅
+## After Submitting do the Peer-Reviewing as mentioned in the Video... 
