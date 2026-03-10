@@ -4,7 +4,7 @@ Assignment solutions shared here are for educational reference only.
 Learners are encouraged to understand concepts and write their own answers.s
 # Full Stack Captsone Project(IBM- Coursera Course)
 ## 🚀 Week 6 Peer-Graded Assignment Solutions :- ✅ 😇 👇
-## Follow the Below mentioned steps :- 👇 ✅
+### Follow the Below mentioned steps :- 👇 ✅
 
 # TASK 1 :- 👇
 ## LINK :- `https://github.com/digital-installer/xrwvm-fullstack_developer_capstone`
