@@ -6,7 +6,7 @@ Learners are encouraged to understand concepts and write their own answers.s
 ## 🚀 Week 6 Peer-Graded Assignment Solutions :- ✅ 😇 👇
 ### Follow the Below mentioned steps :- 👇 ✅
 
-# TASK 1 :- 👇
+## TASK 1 :- 👇
 ## LINK :- `https://github.com/digital-installer/xrwvm-fullstack_developer_capstone`
 
 # TASK 2 :- 👇
