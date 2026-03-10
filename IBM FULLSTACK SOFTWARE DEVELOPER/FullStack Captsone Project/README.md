@@ -7,7 +7,7 @@ Learners are encouraged to understand concepts and write their own answers.s
 ### Follow the Below mentioned steps :- 👇 ✅
 
 ## TASK 1 :- 👇
-## LINK :- `https://github.com/digital-installer/xrwvm-fullstack_developer_capstone`
+### LINK :- `https://github.com/digital-installer/xrwvm-fullstack_developer_capstone`
 
 # TASK 2 :- 👇
 ## TITLE :- `Django server running.`
