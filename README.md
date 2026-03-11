@@ -6,7 +6,7 @@ Assignment solutions shared here are for educational reference only. Learners ar
 
 ## Authors :
 - Mo Fahim Raj
-  
+-   mofahimraj@gmail.com
 ###### ⭐ If you find this project useful, please give it a star on GitHub! ⭐
 
 ###### Built with ❤️ 
